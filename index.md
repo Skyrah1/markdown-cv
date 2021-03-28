@@ -1,91 +1,85 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Zhun Chen Yek's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Zhun Chen Yek
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+#### Github: <https://github.com/Skyrah1> | Email: <zhunchenyek1@gmail.com> | Mobile: 07554516557
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+----
+### University
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+MEng Computer Science at University of Bristol (2018 – present)
 
-- Sizar
+- Results for completed years:
+    - 1st year: 69% average
+    - 2nd year: 68% average
+- On track for 2:1
+- Expected to graduate June 2022
+- Modules of interest: Team Project, Software Product Engineering, Object Oriented Programming, Computer Graphics, Artificial Intelligence, Data Structures and Algorithms, Human Computer Interaction
 
-`1667 - death`
-__Trinity College, Cambridge__
+### A-levels
 
-- Fellow
+- Colleges attended:
+    - Abacus College, Oxford (2016 – 2017)
+    - Oxford Science and Maths Tutors (2017 – 2018)
+- A-level subjects completed: Mathematics, Physics, Chemistry, Further Mathematics (AAAA* respectively)
+- AS-level subjects completed: Computer Science (A)
 
+## Technical Skills
 
+----
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+- Unity
+- Godot
+- C#
+- C++
+- Object-oriented design
+- Git
 
 
-## Occupation
+## Experience
 
-`1600`
-__Royal Mint__, London
+----
 
-- Warden
-- Minted coins
+### 3rd year Team Project (January 2021, ongoing)
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+Currently developing movement, AI, and visual design of a web-based game written in Godot, as part of a team project in university.
 
+### Scotland Yard (February 2019)
 
+Completed a software framework for a Java-based Scotland Yard video game, as well as create an AI to play it, as part of a paired university project.
 
-<!-- ### Footer
+A Scotland Yard AI competition was held, where our AI won third place.
 
-Last updated: May 2013 -->
+### BioInspiredFlight (October 2019)
 
+Created the UI and assisted with creating the physics engine of an educational Processing-based Android game where players take control of a drone and use it to solve problems, as part of a team project in university.
 
+## Personal Projects
+
+----
+
+### Darwin's Dash (2020)
+
+Created a gravity-based platformer game in Unity as part of a team of six, participating in the CSS Bristol x EWB UCL Game Jam 2020 (can be found here: https://skyrah1.github.io/Darwin-s-Dash-Build/)
+
+### SkyBot (2019)
+
+Created a JavaScript-based Discord bot with custom commands for a private D&D server.
+
+### BASIC Interpreter (2018)
+
+Created a BASIC Interpreter with a simple graphical interface using Java.
+
+## Extracurricular Roles/Activities
+
+----
+
+### CSS Bristol Tech Event Officer (2020-2021)
+
+- Organized online drop-in coding sessions held over Discord during the summer of the COVID-19 pandemic.
+- Hosted a Tech Startup Q&A Panel for the University of Bristol
+- Organized and participated in the CSS Bristol x EWB UCL 2020 Game Jam
